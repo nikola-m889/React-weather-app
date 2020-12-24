@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/git@github.com:nikola-m889/react-weather-app.git/static/css/main.3f187d9a.chunk.css",
+    "main.js": "/git@github.com:nikola-m889/react-weather-app.git/static/js/main.f0b70429.chunk.js",
+    "main.js.map": "/git@github.com:nikola-m889/react-weather-app.git/static/js/main.f0b70429.chunk.js.map",
+    "runtime-main.js": "/git@github.com:nikola-m889/react-weather-app.git/static/js/runtime-main.d5389ef8.js",
+    "runtime-main.js.map": "/git@github.com:nikola-m889/react-weather-app.git/static/js/runtime-main.d5389ef8.js.map",
+    "static/js/2.d02026d0.chunk.js": "/git@github.com:nikola-m889/react-weather-app.git/static/js/2.d02026d0.chunk.js",
+    "static/js/2.d02026d0.chunk.js.map": "/git@github.com:nikola-m889/react-weather-app.git/static/js/2.d02026d0.chunk.js.map",
+    "index.html": "/git@github.com:nikola-m889/react-weather-app.git/index.html",
+    "static/css/main.3f187d9a.chunk.css.map": "/git@github.com:nikola-m889/react-weather-app.git/static/css/main.3f187d9a.chunk.css.map",
+    "static/js/2.d02026d0.chunk.js.LICENSE.txt": "/git@github.com:nikola-m889/react-weather-app.git/static/js/2.d02026d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/git@github.com:nikola-m889/react-weather-app.git/static/media/warm.e9da5a30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5389ef8.js",
+    "static/js/2.d02026d0.chunk.js",
+    "static/css/main.3f187d9a.chunk.css",
+    "static/js/main.f0b70429.chunk.js"
+  ]
+}
